@@ -1,0 +1,50 @@
+p:hover {
+color: blue
+
+}
+
+.p1{
+color: red
+}
+
+div{
+    text-align: center
+}
+
+.p2{
+    color: green
+}
+
+/*li:nth-child(1) {
+    color: steelblue;
+}*/
+
+/*li:only-child {
+    color: purple;
+}*/
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+span + a {
+color:red;
+}
+
+img ~ p {
+color: purple;
+}
+
+ul > li {
+    color: purple;
+}
+/*
+#facebook:link {
+color: blue;
+}
+
+#facebook:visited {
+color: red;
+}*/
